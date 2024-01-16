@@ -121,7 +121,7 @@
                     </div>
                     <div class="ps-4">
                         <h5 class="text-white mb-0">Foydalanuvchilar soni</h5>
-                        <h1 class="text-white mb-0" data-toggle="counter-up">4894651</h1>
+                        <h1 class="text-white mb-0" data-toggle="counter-up">4</h1>
                     </div>
                 </div>
             </div>
@@ -251,7 +251,7 @@
                         </div>
                     </div>
                     <div class="text-center py-4">
-                        <h4 class="text-primary">Saiydmurotov Sulaymon</h4>
+                        <h4 class="text-primary">Saidmurotov Sulaymon</h4>
                     </div>
                 </div>
             </div>
@@ -346,11 +346,11 @@
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-envelope-open text-primary me-2"></i>
-                            <p class="mb-0">satimbayevfarruhbek@gmail.com</p>
+                            <p class="mb-0">saidmurotov.sulaymon@mail.ru</p>
                         </div>
                         <div class="d-flex mb-2">
                             <i class="bi bi-telephone text-primary me-2"></i>
-                            <p class="mb-0">+998904314201</p>
+                            <p class="mb-0">+99886016030</p>
                         </div>
                         <div class="d-flex mt-4">
                             <a class="btn btn-primary btn-square me-2" href="#"><i class="fab fa-twitter fw-normal"></i></a>
